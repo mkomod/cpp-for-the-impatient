@@ -5,15 +5,16 @@
 ## Elements of a C++ program
 
 Basic elements
-    - `#include` directives
-	- declares functions, objects and classes that are being used
-	- ex. `iostrem` allows use of `cout`, provides further support of console input / output
-    - `using` statement
-	- enables all names within a given namespace to be referenced directly
-	- not strictly necessary buy a major convenience
-	- without the `using` statement we would have to refer to `cout` with `std::cout`, the qualified name
-    - `main` function
-	- the part of the program that actually does something
+
+ - `#include` directives
+    - declares functions, objects and classes that are being used
+    - ex. `iostrem` allows use of `cout`, provides further support of console input / output
+ - `using` statement
+    - enables all names within a given namespace to be referenced directly
+    - not strictly necessary buy a major convenience
+    - without the `using` statement we would have to refer to `cout` with `std::cout`, the qualified name
+ - `main` function
+    - the part of the program that actually does something
 
 
 ## General Structure of a C++ program
