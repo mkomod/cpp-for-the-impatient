@@ -36,7 +36,7 @@ Data form the simplest expressions, the use of operators creates larger expressi
  - join operator combines multiple operations, ex: `while(cin >> n, n > 0)`
 
  
- ## Cast operators
+## Cast operators
 
  - `static_cast`
     - produce value of an expression in the new data format.
